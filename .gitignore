@@ -1,0 +1,10 @@
+# Upstream material produced locally by the script. Never commit (see LEGAL.md).
+/recovered/
+*.dmg
+*.exe
+*.app/
+*.asar
+*.node
+*.gpr
+*.rep/
+.DS_Store
