@@ -100,7 +100,7 @@ voice-call telemetry fields (`barge_in_overlap_ms_*`, `mic_stall`, `car_session`
 
 ### What changed in `CUGrokBotService`
 
-Ghidra recovers 5,597 → 5,864 functions (+267). The linked frameworks are
+Ghidra recovers 6,959 → 7,288 functions (+329). The linked frameworks are
 unchanged. The new strings and Swift type names (`CUCore/*.swift`) point to one
 theme: **keeping the person at the Mac in control while the agent drives it
 remotely.**
